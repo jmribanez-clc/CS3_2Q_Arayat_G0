@@ -1,2 +1,2 @@
-# CS3_2Q_Arayat_G0
-This is the sample repository for my Arayat group
+# Jan Michael R. Ibanez
+Your teacher in Computer Science 3.
